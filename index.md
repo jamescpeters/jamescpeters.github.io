@@ -6,3 +6,4 @@ I am an aspiring I/O Psychology Practitioner who is interested in Personnel Sele
 
 In the short term, the topics I will blog about will be related to the topics covered in ST 558: Data Science for Statisticians. In the medium to long term, I plan to blog about topics related to my career interests in I/O Psychology. This will include topics related to Personnel Selection, Job (or Work) Analysis, Competency Modeling, and Workforce Planning to name a few.
 
+![LOML](/jamescpeters/jamescpeters.github.io/assets/images/wedding.jpg)
